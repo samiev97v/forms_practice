@@ -1,0 +1,59 @@
+body{
+    margin: 20px;
+}
+br{
+    margin: 50px;
+    padding: 50px;
+}
+h1{
+    text-align: center;
+}
+.container{
+    margin: 20px, 30px;
+    padding: 20px
+}
+.row{
+    margin: ;
+ 
+}
+div{
+    margin: 1px;
+    text-align: center;
+    background-color: lightblue;
+    border-radius: 5px;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style-type: none;
+    padding: 0;
+   
+}
+.left{
+    float: left;
+    display: inline-block;
+    width: 49%;
+    vertical-align: top;
+    text-align: right;
+}
+.right{
+    
+    display: inline-block;
+    width: 49%;
+    text-align: left;
+}
+.topic{
+    margin: 20px;
+    
+}
+button{
+    background-color: lightseagreen;
+    color: white;   
+    margin: 0;
+    border: 0;
+    width: 60px;
+    height: 20px;
+    text-align: center;
+}
